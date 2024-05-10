@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1280px;
+    height: 832px;
+    background: #EAECF9;
+}
+
+#cantiner {
+    width: 810px;
+    height: 700px;
+    border-radius: 15px;
+    background: #FFF;
+    margin: auto;
+    margin-top: 15%;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    padding: 55px 55px;
+    gap: 0px;
+}
+
+.frist p {
+    color: #FFF;
+}
+
+.second p {
+    color: #37335D;
+}
+
+.thre p {
+    color: #FFF;
+}
+
+.foty p {
+    color: #37335D;
+}
+
+.five p {
+    color: #FFF;
+}
+
+.sex p {
+    color: #37335D;
+}
+
+button {
+    width: 689px;
+    height: 108px;
+    color: #ffffff;
+    text-transform: uppercase;
+background-color: #37335D;
+
+}
